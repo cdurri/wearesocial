@@ -43,7 +43,7 @@ INSTALLED_APPS = (
     'core',
     'contact',
     'accounts',
-    #'django_forms_bootstrap',
+    'django_forms_bootstrap',
 
 )
 
