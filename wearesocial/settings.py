@@ -89,7 +89,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ciandb',
         'USER': 'testuser',
-        'PASSWORD': '5671749Cd',
+        'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '5432',
     }
