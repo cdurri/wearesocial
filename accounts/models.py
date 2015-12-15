@@ -4,7 +4,7 @@ from django.db import models
 
 from django.utils import timezone
 
-from paypal.standard.forms import PayPalPaymentsForm
+#from paypal.standard.forms import PayPalPaymentsForm
 
 from wearesocial import settings
 
