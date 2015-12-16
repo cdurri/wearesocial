@@ -45,7 +45,6 @@ INSTALLED_APPS = (
     'accounts',
     'django_forms_bootstrap',
     'bootstrapform',
-    'bootstrap',
 
 )
 
