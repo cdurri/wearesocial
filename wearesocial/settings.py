@@ -88,8 +88,8 @@ WSGI_APPLICATION = 'wearesocial.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'ciandb',
-        'USER': 'testuser',
+        'NAME': 'wearesocialdb',
+        'USER': 'wearesocial_user',
         'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '5432',
